@@ -1,0 +1,6 @@
+{
+  "name": "YatraAI",
+  "description": "A spiritual pilgrimage planning and exploration companion powered by AI. Discover sacred destinations, generate detailed personalized itineraries, explore temples, festivals, and sacred routes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
